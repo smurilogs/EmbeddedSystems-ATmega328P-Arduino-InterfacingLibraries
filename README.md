@@ -11,6 +11,11 @@ ATmega328P Peripherals:
 * TWI (I2C)
 * UART 
 
+ATmega328P WFG and ISP
+* CTC mode
+* PWM mode
+* DAC using LPF and PWM
+
 Device drivers:
 * 2-Channel Rotary Encoder
 * HD44780 LCD module
