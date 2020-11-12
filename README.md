@@ -9,7 +9,7 @@ This repository brings up some libraries in C/C++ to make easier the interface o
 ATmega328P Peripherals:
 * ADC
 * TWI (I2C)
-* UART 
+* UART
 
 ATmega328P WFG and ISP
 * CTC mode
@@ -32,4 +32,3 @@ Control and State Estimation:
 * Moving Average Filter
 * Hysteresis Filter
 * Complementary Filter
-
